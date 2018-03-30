@@ -42,6 +42,7 @@ a:hover {
 footer {
     background-color:#FBF7F2;
     border-top:3px solid #F6F2ED;
+    min-height:160px;
 }
 
 ul.lista-como-contatar{
