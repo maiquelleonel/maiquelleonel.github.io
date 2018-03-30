@@ -8,12 +8,12 @@ a:hover {
     color:#C20103;
 }
 
-.header{
+.header {
     background-color: #dc3545;
     border-bottom:4px solid #F7D690;
     font-weight:normal;
-    padding-top:10px;
     padding-bottom:10px;
+    padding-top:10px;
 }
 
 .header .title {
