@@ -1,83 +1,13 @@
-
-body {
-    color: #333333;
-    font-family:Georgia, Times, serif;
-}
-
-a:hover {
-    color:#C20103;
-}
-
-.header {
-    background-color: #dc3545;
-    border-bottom:4px solid #F7D690;
-    font-weight:normal;
-    padding-bottom:10px;
-    padding-top:10px;
-}
-
-.header .title {
-    color: #FFFFFF;
-    text-shadow:0.6px 1px 2px #530203;
-}
-
-.header .subtitle{
-    color: #F7EAb8;
-    margin-top:-5px;
-    text-shadow:0 1px 2px #530203;
-}
-
-.mb-img {
-    margin-left:-45px;
-}
-.content{
-    padding:20px 0;
-}
-
-.content .title, .footer .title{
-    color:#dc3545;
-    text-shadow:0.6px 1px 1px #A76;
-}
-
-footer {
-    background-color:#FBF7F2;
-    border-top:3px solid #F6F2ED;
-    min-height:180px;
-}
-
-ul.lista-como-contatar {
-    list-style-type:none;
-    padding:0;
-}
-
-ul.lista-como-contatar li{
-    color: #fff;
-    float: left;
-    margin-right:5px;
-
-}
-
-ul.lista-como-contatar li img {
-    filter: invert(100%);
-    height:28px;
-    margin:3px;
-    width: 28px;
-}
-
-ul.lista-como-contatar li a, ul.lista-como-contatar li span {
-    display: block;
-    border-radius:5px;
-    width: 34px;
-    height: 34px;
-}
-
-.facebook { background-color: #3b5998 }
-.github { background-color: #181717 }
-.gmail { background-color: #D14836 }
-.instagram { background-color: #E4405F }
-.linkedin { background-color: #0077B5 }
-.medium { background-color: #1C1B1A }
-.pinterest { background-color: #BD081C }
-.skype { background-color: #00AFF0 }
-.telegram { background-color: #2CA5E0 }
+body { color: #333333; font-family:Georgia, Times, serif; } a:hover { color:#C20103; }
+.header { background-color: #dc3545;border-bottom:4px solid #F7D690;font-weight:normal; padding-bottom:10px; padding-top:10px; } .header .title { color: #FFFFFF; text-shadow:0.6px 1px 2px #530203; }
+.header .subtitle{ color: #F7EAb8; margin-top:-5px; text-shadow:0 1px 2px #530203; }
+.mb-img { margin-left:-45px; } .content{ padding:20px 0; }
+.content .title, .footer .title{ color:#dc3545; text-shadow:0.6px 1px 1px #A76; }
+footer { background-color:#FBF7F2; border-top:3px solid #F6F2ED; min-height:180px; }
+ul.lista-como-contatar { list-style-type:none; padding:0; }
+ul.lista-como-contatar li{ color: #fff; float: left; margin-right:5px; } Ul.lista-como-contatar li img { filter: invert(100%); height:28px; margin:3px; width: 28px; }
+ul.lista-como-contatar li a, ul.lista-como-contatar li span { border-radius:5px; display: block; height: 34px; width: 34px; }
+.facebook { background-color: #3b5998 } .github { background-color: #181717 } .gmail { background-color: #D14836 }
+.instagram { background-color: #E4405F } .linkedin { background-color: #0077B5 } .medium { background-color: #1C1B1A }
+.pinterest { background-color: #BD081C } .skype { background-color: #00AFF0 } .telegram { background-color: #2CA5E0 }
 .twitter { background-color: #1DA1F2 }
