@@ -1,4 +1,4 @@
-body { 
+body {
     fill: currentColor;
     font-family: Georgia, Times, serif;
 }
@@ -23,7 +23,7 @@ a:hover { color: #C20103; }
     margin-top: -5px;
     text-shadow: 0 1px 2px #530203;
 }
-
+.title span.d-block.d-xl-none { width: 115% }
 .mb-img { margin-left: -45px; }
 .content { padding: 20px 0; }
 
@@ -48,6 +48,7 @@ ul.lista-como-contatar {
 ul.lista-como-contatar li {
     float: left;
     margin-right: 5px;
+    margin-bottom: 5px;
 }
 
 ul.lista-como-contatar li a
