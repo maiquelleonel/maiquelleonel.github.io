@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&family=Orbitron:wght@400..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
 :root {
-    --matrix-red: #dc3545;
-    --matrix-red-glow: #c20103;
+    --matrix-red: #c20103;
+    --matrix-red-glow: #dc3545;
     --glass-bg: rgba(10, 11, 14, 0.85);
     --glass-border: rgba(225, 29, 72, 0.15);
     --text-primary: #f3f4f6;
