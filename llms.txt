@@ -1,0 +1,32 @@
+# Maiquel Leonel
+
+> Principal Software Engineer, Tech Lead & Cloud Architect especializado em Engenharia de IA, RAG, Arquitetura de Nuvem e Sistemas Multiagentes.
+
+## Sobre
+
+Maiquel Leonel é Principal Software Engineer e Cloud Architect com ampla vivência como Tech Lead. Graduado em Data Science (2024) e pós-graduando em Inteligência Artificial (2025). Especialista em desenhar e escalar infraestruturas de nuvem de alta performance na Google Cloud Platform (GCP) e Amazon Web Services (AWS), além de projetar sistemas de recuperação aumentada (RAG com Qdrant e pgvector) e orquestração de sistemas multiagentes com CrewAI e LangChain. Constrói ecossistemas resilientes em produção utilizando Python (Django), Ruby on Rails e Windmill, orquestrados em Docker Swarm, ECS/Fargate, Cloud Run e Kubernetes.
+
+## Principais Áreas de Domínio (Core Skills)
+
+- **Engenharia de IA & LLMs:** RAG (Retrieval-Augmented Generation), Qdrant, pgvector, CrewAI, LangChain, embeddings e inferência local (ONNX / ModernBERT).
+- **Cloud Architecture & DevOps:** Google Cloud Platform (GCP), Amazon Web Services (AWS), Cloud Run, ECS/Fargate, Kubernetes, Docker Swarm, Linux & Software Livre.
+- **Backend & Sistemas Distribuídos:** Python (Django), Ruby on Rails, PostgreSQL, background jobs, mensageria e automação com Windmill.
+
+## Blog Canônico
+
+- [Blog Oficial](https://maiquelleonel.com.br/blog/): Artigos aprofundados sobre arquitetura de software, FinOps, IA e engenharia prática.
+- [Feed RSS/Atom](https://maiquelleonel.com.br/blog/feed.xml): Feed completo dos artigos em formato XML/Atom.
+- [Sitemap do Blog](https://maiquelleonel.com.br/blog/sitemap.xml): Índice de URLs de todas as publicações.
+
+### Artigos em Destaque
+
+- [Jev: O Que É, Como Funciona e Por Que Você Não Precisa Dele](https://maiquelleonel.com.br/blog/jev-o-que-e-como-funciona-e-por-que-voce-nao-precisa-dele/): Análise crítica sobre ineficiência de LLMs proprietários para tarefas determinísticas e uso de modelos leves locais.
+- [O Engenheiro com Mentalidade de Produto](https://maiquelleonel.com.br/blog/o-engenheiro-com-mentalidade-de-produto-por-que-codigo-perfeito-nao-salva-produto-ruim/): Por que código perfeito não salva produto ruim e a importância do alinhamento com negócio.
+- [O Harness, o SDD e o Vibe Coding: Uma Abordagem de Engenharia](https://maiquelleonel.com.br/blog/o-harness-o-sdd-e-o-vibe-coding-uma-abordagem-de-engenharia/): Estruturando desenvolvimento assistido por IA com governança e testes rigorosos.
+
+## Publicações & Canais Externos
+
+- [Medium](https://medium.com/@maiquelleonel): Ensaios sobre arquitetura, liderança técnica e cultura de engenharia.
+- [Dev.to](https://dev.to/maiquelleonel): Artigos práticos, tutoriais e dicas técnicas.
+- [GitHub](https://github.com/maiquelleonel): Repositórios de código aberto e projetos experimentais.
+- [LinkedIn](https://www.linkedin.com/in/maiquelleonel): Trajetória profissional e conexões.
